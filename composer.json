@@ -1,0 +1,17 @@
+{
+    "name": "coroq/pick",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ozawa Masayuki",
+            "email": "ozawa@coroq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+      "files": ["src/pick.php"]
+    }
+}
